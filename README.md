@@ -46,6 +46,5 @@ launch some molibe app will also
 
 increasing sales in future year, because Online sale is high.
 ## ⚙️ How to Use
-Explain how someone else can run your project.
-- List dependencies (e.g., `pip install -r requirements.txt`).
-- Provide instructions for running the notebook or script.
+download excel file and click enable editing
+and view our Pivot table and dashboards
